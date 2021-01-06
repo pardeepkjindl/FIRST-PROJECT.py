@@ -1,3 +1,9 @@
+#BEFOR IT USE PLEASE MAKE A DON'T OPEN FOLDER AT DESTOP AND IN IT MAKE 3 FOLDERS NAME ARE-- all user's books , all user detail ,ALL USER HISTORY AND ADD THIS CODE THERE WITH THESE 3 FOLDER AND ENTER .py AT THE END
+
+
+
+
+
 # import _tkinter
 import time#use for history,sleep
 print("!!!WELCOME TO THE LIBRARY!!!\n\n\n")
