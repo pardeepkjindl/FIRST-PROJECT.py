@@ -1,5 +1,3 @@
-# FIRST-PROJECT.py
-# FIRST-PROJECT TO USE THIS PLEASE MAKE A FOLDER NAME DON'T OPEN IN DESPTOP THEN MAKE THREE FOLDERS NAMES ARE-- all user's books, all user detail and ALL USER HISTORY AND WRITE .py AT THE LAST OF FILE NAME
 # import _tkinter
 import time#use for history,sleep
 print("!!!WELCOME TO THE LIBRARY!!!\n\n\n")
